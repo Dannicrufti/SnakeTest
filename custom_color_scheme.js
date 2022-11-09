@@ -743,7 +743,24 @@ if(window.snake) {
       custom_yinyang:  [ '#000000', '#000000', ],
     });
   };
-
+    window.snake.nigger2 = function() {
+    return window.snake.scheme({
+      score_bar:       '#000000', 
+      borders:         '#000000', 
+      walls:           '#111212', 
+      background:      '#000000', 
+      shadows:         '#000000', 
+      light_squares:   '#000000', 
+      dark_squares:    '#000000', 
+      sky:             '#000000', 
+      separators:      '#000000', 
+      light_ee:        '#000000',
+      dark_ee:         '#000000',
+      buttons:         '#000000',
+      custom_gradient: [ '#111212', '#111212', ],
+      custom_yinyang:  [ '#111212', '#111212', ],
+    });
+  };
 
   function rgb_to_hsv(col) {
     let R = col.r / 255, G = col.g / 255, B = col.b / 255;
