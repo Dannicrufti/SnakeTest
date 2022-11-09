@@ -743,7 +743,7 @@ if(window.snake) {
       custom_yinyang:  [ '#000000', '#000000', ],
       cane:            true,
     });
-
+  };
 
 
   function rgb_to_hsv(col) {
