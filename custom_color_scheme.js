@@ -725,6 +725,24 @@ if(window.snake) {
       tree:            true,
     });
   };
+  window.snake.nigger = function() {
+    return window.snake.scheme({
+      score_bar:       '#000000', 
+      borders:         '#000000', 
+      walls:           '#000000', 
+      background:      '#000000', 
+      shadows:         '#000000', 
+      light_squares:   '#000000', 
+      dark_squares:    '#000000', 
+      sky:             '#000000', 
+      separators:      '#000000', 
+      light_ee:        '#000000',
+      dark_ee:         '#000000',
+      buttons:         '#000000', 
+      custom_gradient: [ '#000000', '#000000', ],
+      custom_yinyang:  [ '#000000', '#000000', ],
+      cane:            true,
+    });
 
 
 
