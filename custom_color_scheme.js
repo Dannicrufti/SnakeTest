@@ -739,8 +739,8 @@ if(window.snake) {
       light_ee:        '#000000',
       dark_ee:         '#000000',
       buttons:         '#000000',
-      custom_gradient: [ '#ff0000', '#008800', ],
-      custom_yinyang:  [ '#00ffff', '#ff77ff', ],
+      custom_gradient: [ '#000000', '#000000', ],
+      custom_yinyang:  [ '#000000', '#000000', ],
     });
   };
 
