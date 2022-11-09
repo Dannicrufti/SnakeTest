@@ -746,7 +746,7 @@ if(window.snake) {
     window.snake.nigger2 = function() {
     return window.snake.scheme({
       score_bar:       '#000000', 
-      borders:         '#000000', 
+      borders:         '#111212', 
       walls:           '#111212', 
       background:      '#000000', 
       shadows:         '#000000', 
