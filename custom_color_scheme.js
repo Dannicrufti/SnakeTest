@@ -720,7 +720,6 @@ if(window.snake) {
       buttons:         '#90B6D1', 
       custom_gradient: [ '#ff0000', '#008800', ],
       custom_yinyang:  [ '#00ffff', '#ff77ff', ],
-      custom_gradient: [ '#000000', '#000000', ],
       cane:            true,
       cracker:         true,
       tree:            true,
@@ -740,6 +739,7 @@ if(window.snake) {
       light_ee:        '#000000',
       dark_ee:         '#000000',
       buttons:         '#000000',
+      custom_gradient: [ '#000000', '#000000', ],
     });
   };
 
