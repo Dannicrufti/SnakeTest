@@ -738,10 +738,7 @@ if(window.snake) {
       separators:      '#000000', 
       light_ee:        '#000000',
       dark_ee:         '#000000',
-      buttons:         '#000000', 
-      custom_gradient: [ '#000000', '#000000', ],
-      custom_yinyang:  [ '#000000', '#000000', ],
-      cane:            true,
+      buttons:         '#000000',
     });
   };
 
